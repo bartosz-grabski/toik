@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HungryCustomer
+Bundle-SymbolicName: HungryCustomer
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.osgi.framework;version="1.7.0",
+ pl.edu.agh.iisg.pizzadelivery;version="1.0.0"
+Bundle-Activator: pl.edu.agh.iisg.customer.Activator

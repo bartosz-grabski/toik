@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="DeclarativeComponent">
+   <implementation class="pl.edu.agh.iisg.toik.customer.Customer"/>
+   <reference bind="setPizzaDelivery" cardinality="1..n" interface="pl.edu.agh.iisg.pizzadelivery.IPizzaDelivery" name="IPizzaDelivery" policy="static"/>
+</scr:component>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PizzaDelivery
+Bundle-SymbolicName: PizzaDelivery
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: pl.edu.agh.iisg.pizzadelivery;version="1.0.0"

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PizzaOlimp
+Bundle-SymbolicName: PizzaOlimp
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Service-Component: src/pl/edu/agh/iisg/toik/pizzadelivery/impl/component.xml
+Import-Package: pl.edu.agh.iisg.pizzadelivery
