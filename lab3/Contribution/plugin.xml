@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="pl.edu.agh.toik.ep.translator">
+      <translator
+            class="pl.edu.agh.toik.ep.contribution.translator.PL2ENTranslator"
+            id="pl.edu.agh.toik.translator.pl2en"
+            lang_in="PL"
+            lang_out="EN"
+            name="Polish to English translator">
+      </translator>
+   </extension>
+
+</plugin>
