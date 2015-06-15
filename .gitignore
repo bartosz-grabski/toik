@@ -12,7 +12,7 @@
 hs_err_pid*
 
 Servers/
-target/
+*target/
 .metadata/
 .classpath
 .settings/
